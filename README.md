@@ -46,7 +46,9 @@ Here are some ideas to get you started:
       
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nuwansara-lokugamage&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
-<br/>
+    
+<br>
+
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwansara-lokugamage&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 
