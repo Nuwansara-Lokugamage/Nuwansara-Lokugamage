@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwansara-lokugamage&theme=holi-theme"></p>
+<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwansara-lokugamage&theme=light-theme"></p>
       
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nuwansara-lokugamage&show_icons=true&locale=en" alt="nuwansara-lokugamage" /></p>
 
