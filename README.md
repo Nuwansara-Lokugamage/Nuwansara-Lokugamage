@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/nuwansara.lokugamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuwansara lokugamage" height="30" width="40" /></a>
 </p>
 
+<p align="center">
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -45,6 +47,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nuwansara-lokugamage&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwansara-lokugamage&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwansara-lokugamage&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 
