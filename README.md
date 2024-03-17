@@ -42,19 +42,9 @@ Here are some ideas to get you started:
 
 
 
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwansara-lokugamage&theme=holi-theme"></p>
-
-<p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwansara-lokugamage&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nuwansara-lokugamage&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-    
-
-  <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nuwansara-lokugamage&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Nuwansara's github stats](https://github-readme-stats.vercel.app/api?username=nuwansara-lokugamage&show_icons=true&theme=tokyonight) | ![Nuwansara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuwansara-lokugamage&theme=tokyonight) |
 | --- | --- |
@@ -63,7 +53,7 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
-<br>
+
 
 
 
